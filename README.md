@@ -1,3 +1,14 @@
+# owen.nvim
+
+## Install
+- `cd ~/.config/`
+- `rm -rf nvim`
+- `git clone https://github.com/owencraston/owen.nvim.git nvim`
+- `nvim`
+
+## Getting Started
+- [Kickstart.nvim walkthrough](https://www.youtube.com/watch?v=stqUbv-5u2s)
+
 # kickstart.nvim
 
 https://github.com/kdheepak/kickstart.nvim/assets/1813121/f3ff9a2b-c31f-44df-a4fa-8a0d7b17cf7b
